@@ -55,7 +55,7 @@ Start Apache server
 
 Open browser and visit:
 
-http://localhost/your-folder-name/form.php
+http://localhost/srudents/form.php
 📌 Future Improvements
 
 MySQL Database integration
